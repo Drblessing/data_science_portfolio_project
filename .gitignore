@@ -154,3 +154,11 @@ cython_debug/
 kaggle/playground-series-s3e6/sample_submission.csv
 kaggle/playground-series-s3e6/test.csv
 kaggle/playground-series-s3e6/train.csv
+kaggle/playground-series-s3e1/sample_submission.csv
+kaggle/playground-series-s3e1/submission.csv
+kaggle/playground-series-s3e1/test.csv
+kaggle/playground-series-s3e1/train.csv
+kaggle/playground-series-s3e6/submission.csv
+kaggle/titanic/gender_submission.csv
+kaggle/titanic/test.csv
+kaggle/titanic/train.csv
