@@ -1,8 +1,7 @@
-alias kaggle='/Users/dbless/Library/Python/3.11/bin/kaggle'
-echo $kaggle
+#!/bin/bash
+kaggle_cli=$1
+competition=$2
+submission=$3
+message=$4
 
-competition=$1
-submission=$2
-message=$3
-
-kaggle competitions submit -c "$competition" -f "$submission" -m "$message"
+$kaggle_cli competitions submit -c $competition -f $submission -m "$message"
