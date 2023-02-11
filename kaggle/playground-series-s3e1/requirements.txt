@@ -1,5 +1,7 @@
+aiohttp
 black
-ipykernel
+geopy
+ipywidgets
 matplotlib
 pandas
 pip-chill
@@ -7,3 +9,4 @@ pytest
 scikit-learn
 torchaudio
 torchvision
+tqdm
