@@ -162,3 +162,11 @@ kaggle/playground-series-s3e6/submission.csv
 kaggle/titanic/gender_submission.csv
 kaggle/titanic/test.csv
 kaggle/titanic/train.csv
+refresher/MNIST/raw/t10k-images-idx3-ubyte
+refresher/MNIST/raw/t10k-images-idx3-ubyte.gz
+refresher/MNIST/raw/t10k-labels-idx1-ubyte
+refresher/MNIST/raw/t10k-labels-idx1-ubyte.gz
+refresher/MNIST/raw/train-images-idx3-ubyte
+refresher/MNIST/raw/train-images-idx3-ubyte.gz
+refresher/MNIST/raw/train-labels-idx1-ubyte
+refresher/MNIST/raw/train-labels-idx1-ubyte.gz
