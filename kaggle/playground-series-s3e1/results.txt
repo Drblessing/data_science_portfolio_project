@@ -1,1 +1,2 @@
 First ensemble avg validation loss: 0.31617537082537367
+Ensemble loss:  0.31083970385051407
