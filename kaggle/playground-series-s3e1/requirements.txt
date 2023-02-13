@@ -5,6 +5,8 @@ haversine
 ipywidgets
 pip-chill
 pytest
+python-dotenv
+pytorch-lightning
 reverse-geocoder
 seaborn
 shapely
