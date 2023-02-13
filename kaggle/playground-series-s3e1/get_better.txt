@@ -1,5 +1,0 @@
-https://www.kaggle.com/code/kirillka95/ps-s3e01-tensorflow-approach-kfold
-
-https://www.kaggle.com/code/alexandershumilin/playground-series-s3-e1-keras-nn
-
-https://www.kaggle.com/code/behroozsohrabi/playground-nn-estimator-jan-2023
