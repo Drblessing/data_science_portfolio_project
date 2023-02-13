@@ -1,12 +1,13 @@
 aiohttp
 black
 geopy
+haversine
 ipywidgets
-matplotlib
-pandas
 pip-chill
 pytest
-scikit-learn
+reverse-geocoder
+seaborn
+shapely
 torchaudio
 torchvision
-tqdm
+umap-learn
