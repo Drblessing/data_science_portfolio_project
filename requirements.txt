@@ -1,0 +1,15 @@
+aiohttp
+black
+geopy
+haversine
+ipywidgets
+pip-chill
+pytest
+python-dotenv
+pytorch-lightning
+reverse-geocoder
+seaborn
+shapely
+torchaudio
+torchvision
+umap-learn
